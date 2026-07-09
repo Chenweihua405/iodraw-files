@@ -1236,10 +1236,10 @@
             <mxRectangle width="225" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BrkCrJ3eNxViffMRLemP-247" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmany;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="7uErhSTSnb957wDgfNM2-2" target="BrkCrJ3eNxViffMRLemP-226">
+        <mxCell id="BrkCrJ3eNxViffMRLemP-247" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmany;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="7uErhSTSnb957wDgfNM2-2">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="60" y="1230" as="sourcePoint" />
-            <mxPoint x="-155" y="1745" as="targetPoint" />
+            <mxPoint x="-90" y="675" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
