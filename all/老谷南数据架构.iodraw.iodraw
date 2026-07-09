@@ -1070,7 +1070,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BrkCrJ3eNxViffMRLemP-211" value="FK1" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="1">
-          <mxGeometry x="595" y="1904" width="38" height="40" as="geometry">
+          <mxGeometry x="594" y="1904" width="38" height="40" as="geometry">
             <mxRectangle width="30" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
