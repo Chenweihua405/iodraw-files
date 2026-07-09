@@ -640,7 +640,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7uErhSTSnb957wDgfNM2-83" value="FK1" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="1" vertex="1">
-          <mxGeometry x="856" y="710" width="30" height="40" as="geometry">
+          <mxGeometry x="870" y="710" width="30" height="40" as="geometry">
             <mxRectangle width="30" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
