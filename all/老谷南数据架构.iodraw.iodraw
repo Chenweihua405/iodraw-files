@@ -894,10 +894,13 @@
             <mxRectangle width="30" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BrkCrJ3eNxViffMRLemP-144" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="7uErhSTSnb957wDgfNM2-2">
+        <mxCell id="BrkCrJ3eNxViffMRLemP-144" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;" edge="1" parent="1" target="7uErhSTSnb957wDgfNM2-8">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="450" y="380" as="sourcePoint" />
             <mxPoint x="550" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="670" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
