@@ -1397,7 +1397,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Bfj8U-wSEcftq9fmO0Ez-16" value="所属公司组织id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="Bfj8U-wSEcftq9fmO0Ez-14">
+        <mxCell id="Bfj8U-wSEcftq9fmO0Ez-16" value="请求参数" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="Bfj8U-wSEcftq9fmO0Ez-14">
           <mxGeometry x="30" width="225" height="30" as="geometry">
             <mxRectangle width="225" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -1410,7 +1410,7 @@
             <mxRectangle width="30" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Bfj8U-wSEcftq9fmO0Ez-19" value="所属公司名称" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="Bfj8U-wSEcftq9fmO0Ez-17">
+        <mxCell id="Bfj8U-wSEcftq9fmO0Ez-19" value="返回信息" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="Bfj8U-wSEcftq9fmO0Ez-17">
           <mxGeometry x="30" width="225" height="40" as="geometry">
             <mxRectangle width="225" height="40" as="alternateBounds" />
           </mxGeometry>
