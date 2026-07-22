@@ -360,7 +360,7 @@
             <mxPoint x="380" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gvACBnu9BysZkYo2P0zd-25" value="场景参数表" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="gvACBnu9BysZkYo2P0zd-25" value="场景参数表&lt;span style=&quot;background-color: initial;&quot;&gt;tnnt_form_rule_scene_param&lt;/span&gt;" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="600" y="320" width="270" height="150" as="geometry" />
         </mxCell>
         <mxCell id="gvACBnu9BysZkYo2P0zd-26" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="gvACBnu9BysZkYo2P0zd-25">
