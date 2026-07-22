@@ -572,7 +572,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gvACBnu9BysZkYo2P0zd-81" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="60" width="1720" height="1370" as="geometry" />
+          <mxGeometry x="1000" y="60" width="1400" height="1370" as="geometry" />
         </mxCell>
         <mxCell id="gvACBnu9BysZkYo2P0zd-82" value="租户层" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=0;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1000" y="70" width="120" height="60" as="geometry" />
