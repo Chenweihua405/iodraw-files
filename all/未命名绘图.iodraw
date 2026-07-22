@@ -731,7 +731,7 @@
             <mxRectangle width="30" height="170" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gvACBnu9BysZkYo2P0zd-241" value="output_json json&amp;nbsp;&amp;nbsp;输出结果 [{paramCode,valueType,valueSource,value,refParamCode}];非自定义出参固定 [{paramCode:&quot;result&quot;,value:&quot;true&quot;}]" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="gvACBnu9BysZkYo2P0zd-239">
+        <mxCell id="gvACBnu9BysZkYo2P0zd-241" value="output_json json&amp;nbsp;&amp;nbsp;输出结果 [{paramCode,valueType,valueSource,&lt;div&gt;value,refParamCode}];非自定义出参固定 [{paramCode:&quot;result&quot;,value:&quot;true&quot;}]&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="gvACBnu9BysZkYo2P0zd-239">
           <mxGeometry x="30" width="240" height="170" as="geometry">
             <mxRectangle width="240" height="170" as="alternateBounds" />
           </mxGeometry>
