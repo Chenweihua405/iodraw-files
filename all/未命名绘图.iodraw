@@ -214,7 +214,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gvACBnu9BysZkYo2P0zd-81" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="60" width="830" height="990" as="geometry" />
+          <mxGeometry x="910" y="40" width="830" height="990" as="geometry" />
         </mxCell>
         <mxCell id="gvACBnu9BysZkYo2P0zd-82" value="租户层" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=0;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="890" y="70" width="120" height="60" as="geometry" />
