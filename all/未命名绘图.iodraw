@@ -578,7 +578,7 @@
           <mxGeometry x="1020" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gvACBnu9BysZkYo2P0zd-83" value="规则表" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="150" width="270" height="210" as="geometry" />
+          <mxGeometry x="1110" y="150" width="270" height="240" as="geometry" />
         </mxCell>
         <mxCell id="gvACBnu9BysZkYo2P0zd-84" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="gvACBnu9BysZkYo2P0zd-83">
           <mxGeometry y="30" width="270" height="30" as="geometry" />
@@ -654,6 +654,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gvACBnu9BysZkYo2P0zd-223" value="scene_code bigint&amp;nbsp;&amp;nbsp;场景编码" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="gvACBnu9BysZkYo2P0zd-221">
+          <mxGeometry x="30" width="240" height="30" as="geometry">
+            <mxRectangle width="240" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gvACBnu9BysZkYo2P0zd-224" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="gvACBnu9BysZkYo2P0zd-83">
+          <mxGeometry y="210" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gvACBnu9BysZkYo2P0zd-225" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="gvACBnu9BysZkYo2P0zd-224">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gvACBnu9BysZkYo2P0zd-226" value="scene_code bigint&amp;nbsp;&amp;nbsp;场景编码" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="gvACBnu9BysZkYo2P0zd-224">
           <mxGeometry x="30" width="240" height="30" as="geometry">
             <mxRectangle width="240" height="30" as="alternateBounds" />
           </mxGeometry>
