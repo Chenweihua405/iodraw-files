@@ -1023,7 +1023,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gvACBnu9BysZkYo2P0zd-121" value="&lt;div&gt;&lt;div&gt;condition_name&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="gvACBnu9BysZkYo2P0zd-119">
+        <mxCell id="gvACBnu9BysZkYo2P0zd-121" value="&lt;div&gt;condition_name&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;varchar(32) 条件名称&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="gvACBnu9BysZkYo2P0zd-119">
           <mxGeometry x="30" width="510" height="30" as="geometry">
             <mxRectangle width="510" height="30" as="alternateBounds" />
           </mxGeometry>
